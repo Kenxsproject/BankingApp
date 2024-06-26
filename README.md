@@ -1,3 +1,7 @@
+## Introduction
+Welcome to My Banking App project! This project is designed to emulate various banking operations. Developed with a focus on security, responsiveness, and user experience, Horizon provides account management, transaction history, and the ability to add banks.
+
+
 ## How to Demo
 * First navigate to this page https://banking-app-umber-tau.vercel.app/
 * Go to sign up and create an account
